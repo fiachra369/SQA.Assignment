@@ -35,6 +35,8 @@ Time Management - getting the job done in time, not going back - commenting help
 
 Performance - team performance, working faster and more efficient boosts morale 
 
+Readability - easy for new team members to follow
+
 Avoids Mismanagement 
 - errors
 
