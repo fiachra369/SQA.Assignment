@@ -65,8 +65,9 @@ Agile Estimation : https://www.youtube.com/watch?v=sCCUEtjCpCs
 
 
 
-Conclusion
+Conclusions
 
 There are clear advantages and disadvantages to estimating in hours after you already estimated in Story Points. When you have a stable team velocity, then it may not be necessary to estimate in hours. There are some companies taht view estimation as an activity that doesn't add value and that it should not be done.
 Estimating in hours goes along with the practices involved in Scrum. It provides a learning curve and gives more accurate sprint plan. It is crucial that all team members see the benefit in counting hours or else it may prove to be a waste of time.
 
+ 
