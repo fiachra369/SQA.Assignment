@@ -18,6 +18,8 @@ Before tackling any of the task, we first had a meeting via Teams to establish w
 We have decided as a group to complete the first two tasks by Sunday (four days from first meeting). Once these tasks are complete, we will have a new meeting and decide when and how we will finish the final part together.
 
 ## Victor & Marks Plan for Task Estimation in Scrum Task
+- Have a call to determine the factors of task estimation that each of us would be responsible for researching
+- Brainstorming of ideas followed by searching the internet for information
 
 
 ## Fiachra & Siobhan Plan for Coding Standards Task
