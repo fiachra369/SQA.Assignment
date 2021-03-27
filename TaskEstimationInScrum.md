@@ -29,6 +29,7 @@
 
 - It seems obvious that different people would take different time to code. But when we draw estimates, we come up with a standard effort estimate. This inherently adds a risk layer which is going to make the estimate unreliable.
   
+  #### Read more :https://levelup.gitconnected.com/learn-task-estimation-secrets-644e8cbca89e
 
 [![Ideal-hours-768x538.jpg](https://i.postimg.cc/L8T8v2q2/Ideal-hours-768x538.jpg)](https://postimg.cc/WddV1R6H)
 
@@ -56,7 +57,3 @@
 
 There are clear advantages and disadvantages to estimating in hours after you already estimated in Story Points. When you have a stable team velocity, then it may not be necessary to estimate in hours. There are some companies that view estimation as an activity that doesn't add value and for that reason it should not be done.
 Estimating in hours goes along with the practices involved in Scrum. It provides a learning curve and gives more accurate sprint plan. It is crucial that all team members see the benefit in counting hours or else it may prove to be a waste of time.
-
-
-
- 
