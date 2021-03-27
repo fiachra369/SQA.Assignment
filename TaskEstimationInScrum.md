@@ -1,14 +1,14 @@
 # Task Estimation in Scrum
 
-### What is task estimation ?
+## What is task estimation ?
 
 *"Estimates are essentially really bad guesses" - Agile Samurai*
 
-Agile Estimation : https://www.youtube.com/watch?v=sCCUEtjCpCs
 
--
-- 
-- 
+
+
+
+
 
 ### 
 
