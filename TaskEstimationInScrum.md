@@ -1,32 +1,21 @@
 # Task Estimation in Scrum
 
-## What is task estimation ?
-
-*"Estimates are essentially really bad guesses" - Agile Samurai*
+## Importance of  task estimation 
 
 
-vv sgscvdce degd
+- Need to know how long a task is going to take
+- Want to deliver efficiently and as fast as possible
+- Allows for more up-to-date status reports regarding the sprint
+- Resources are shared between tasks, so it’s important to know resource dependencies and related time
+- To move on to new tasks
 
 
 
 
-### 
-
-#### 
-- 
 
 
-####   
-- 
-
-####   
-- 
 
 
-####  
-
-
-#### 
 
 
 **Before:**  
