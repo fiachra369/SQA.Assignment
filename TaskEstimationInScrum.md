@@ -1,6 +1,6 @@
 # Task Estimation in Scrum
 
-## Importance of task estimation 
+## Importance of task estimation  
 
 - Need to know how long a task is going to take
 - Want to deliver efficiently and as fast as possible
@@ -8,44 +8,27 @@
 - Resources are shared between tasks, so it’s important to know resource dependencies and related time
 - To move on to new tasks
 
-Read more : https://uwaterloo.ca/ist-project-management-office/methodology/project-management/planning/project-schedule/task-estimating
-
+#### Read more : https://uwaterloo.ca/ist-project-management-office/methodology/project-management/planning/project-schedule/task-estimating
 
 ## Common Challenges of Task Estimation
- 
+
 ### Idealistic & optimistic estimation
- 
- - In most cases, the estimation is carried out under ideal and optimistic conditions, but issues such asunavailability of certain resources, and change requests during the project are not considered in the project estimation.
 
- ### Poor design
- 
- - A poor design results in unnecessary code tweaking and heavy-duty maintenance applying pressure on schedules.
+- In most cases, the estimation is carried out under ideal and optimistic conditions, but issues such asunavailability of certain resources, and change requests during the project are not considered in the project estimation.
 
- ### Not splitting the tasks enough
- 
- - Most projects have a WBS (Work breakdown structure) and Each task unit should be equivalent to an Agile 
- story point.
- - Lack of this usually implies that there is no proper basis for estimation and then well, it slips out into a subjective guess.
+### Poor design
+
+- A poor design results in unnecessary code tweaking and heavy-duty maintenance applying pressure on schedules.
+
+### Not splitting the tasks enough
+
+- Most projects have a WBS (Work breakdown structure) and Each task unit should be equivalent to an Agile story point.
+- Lack of this usually implies that there is no proper basis for estimation and then well, it slips out into a subjective guess.
+
+### Ignoring team capacity
+
+- It seems obvious that different people would take different time to code. But when we draw estimates, we come up with a standard effort estimate. This inherently adds a risk layer which is going to make the estimate unreliable.
   
-
-
-
-
-
-
-**Before:**  
-
-```
-    
-```
-
-
-**After:**  
-
-```
-    
-```
-
 
 [![Ideal-hours-768x538.jpg](https://i.postimg.cc/L8T8v2q2/Ideal-hours-768x538.jpg)](https://postimg.cc/WddV1R6H)
 
