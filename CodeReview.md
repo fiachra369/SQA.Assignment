@@ -1,4 +1,4 @@
-## What is code Review ? - Victor
+## What is code Review ? 
 Code review is a systematic examination of software source code, intended to bugs and to estimate the code quality. It is the act of consciously conveying with fellow programmers to check each other's code for mistakes and review.
 
 
