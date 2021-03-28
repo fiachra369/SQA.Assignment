@@ -1,4 +1,4 @@
-## What is code Review ? 
+## What is code Review? 
 Code review is a systematic examination of software source code, intended to bugs and to estimate the code quality. It is the act of consciously conveying with fellow programmers to check each other's code for mistakes and review.
 
 
@@ -9,12 +9,16 @@ The code review process includes the following stages:
 - **Malware discovery** - A special kind of code review used to detect the suspicious pieces of code or to find the back-doors and any malware integrated into the software.
 
 
+## What are the advantages of using code reviews?  
 
+[An experienced developer's opinon on the advantages of code review](https://simpleprogrammer.com/why-code-reviews-make-better-code-teams/)
+#### Reduction of bugs
+Code reviews can often catch bugs that testing may not. Particularly when it comes to asynchronous code as the testing environment might have different call back times to the production environment. In this case the tests could miss this bug but a more experienced developer would be more likely to spot it. It is beneficial to have senior developers review juniors' code. The junior developer will write the code to cover the given use cases and then during review it is the job of the senior developer to think of the edge cases and ensure they are handled properly.
+#### Code readability
+All code you write will have to be maintained and possibly refactored in the future. This may be done by another developer some time in the future so it is important that your code is easy to read and understand. During a code review it will become apparent very quickly if your code is not understandable to another developer so that it can be refactored now rather than a year later with a new developer trying to muddle their way through it when original author has left the company.
+#### Knowledge Sharing  
+As stated above it is important for senior developers to review the work of juniors as they are more likely to spot bugs. Although juniors are unlikely to spot issues in seniors code there is still value in less experienced developers or new team members performing reviews. A lot can be learned from reviewing and understanding the code of seasoned developers. You will learn the architecture, the prefered style of code, and may even pick up logic that can be reusued in the future.
 
-
-
-
-## What are the advantages of using code reviews ? - Siobhan
 
 ## Tip To Follow Code Reviews
 ![Getting Started](https://i.postimg.cc/ncMPgjjb/Overview-of-the-Code-Review-Process.png)
