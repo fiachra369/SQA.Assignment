@@ -21,6 +21,7 @@
 
 #### Files  
 - All files should use .java extension.
+- Files should be less than 2,000 lines.
 
 #### Commenting and Layout  
 - Block comments should be used at the beginning of all files to give a description of that file.
@@ -28,9 +29,13 @@
 
 
 #### Indention  
+- 4 spaces should be used.
+- Lines should be no longer than 70 characters.
 
 
-#### Exception Handling  
+#### Exception Handling 
+- Use specific exceptions rather than general. 
+- Write clear, meaningful error messages. 
 
 
 **Difficult to read and understand:**  
