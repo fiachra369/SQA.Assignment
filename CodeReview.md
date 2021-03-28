@@ -1,4 +1,18 @@
 ## What is code Review ? - Victor
+Code review is a systematic examination of software source code, intended to bugs and to estimate the code quality. It is the act of consciously conveying with fellow programmers to check each other's code for mistakes and review.
+
+
+The code review process includes the following stages:
+- **Best practice** - Identifying more efficient ways of completing any task. 
+- **Error detection** - Finding local errors in the code.
+- **Vulnerability exposure** - - identifying the most common vulnerabilities in the code.
+- **Malware discovery** - A special kind of code review used to detect the suspicious pieces of code or to find the back-doors and any malware integrated into the software.
+
+
+
+
+
+
 
 ## What are the advantages of using code reviews ? - Siobhan
 
