@@ -66,7 +66,7 @@
 
 The importance of coding standards needs no explanation. Heres a quick anecdote.
 
-The following quotes is taken from What’s Your Worst Experience with a Coding Standard?(https://blog.submain.com/worst-experience-coding-standard/) an artical from Erik Dietrich
+The following quotes is taken from What’s Your Worst Experience with a Coding Standard?(https://blog.submain.com/worst-experience-coding-standard/) an article from Erik Dietrich
 
 > Absent a coding standard, you can wind up with a confusing hodgepodge of code.? It starts to resemble some medieval map of > Europe with fiefdoms and a sprawl of local dialects.? “Oh, that’s Dave’s code.? ?Good luck trying to understand that — Dave > LOVES Hungarian notation and is allergic to white space.”
 
