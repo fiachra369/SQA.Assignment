@@ -2,7 +2,7 @@
 
 ### Why use coding standards?
 
-*"Unification decreases devlopment cost standardizing development flow and technologies stack"*
+*"Unification decreases development cost standardising development flow and technologies stack"*
 
 [Applying NASA coding standards to javascript](https://www.youtube.com/watch?v=z8hG-3Ak_b4)
 
@@ -89,11 +89,11 @@ Dont want to be Dave ? Follow our coding standards handbook. You wont regret it!
 
 
 #### Time Management
-- Good timemanagement will ensure you get the job in time for the customers or your team
+- Good time management will ensure you get the job in time for the customers or your team
 - Getting the work done fast but also in an efficient way will boost team moral 
 - By using the coding standard of commenting, your team will be able to find errors a lot more quickly and fix them
 
-Here is a clear example of affective commenting
+Here is a clear example of effective commenting
 
 ```
 function addSetEntry(set, value) 
@@ -109,6 +109,11 @@ function addSetEntry(set, value)
 
 #### Security
 - By the use of coding standards inconsistencies, bugs and errors in logic will be at a minimum
-- There is a huge trend in cycber attacks in todays age, so by maintaining a good practice in coding standards, you are protecting Codeck Software
+- There is a huge trend in cyber attacks in today's age, so by maintaining a good practice in coding standards, you are protecting Codeck Software
+
+#### Affordability
+- Helps to build code that is easy to maintain and perform
+- Reusing saves time and lowers development costs
+- Can easily set standards in line with the company, increasing flexibility
 
 
