@@ -4,7 +4,7 @@
 
 *"Unification decreases devlopment cost standardizing development flow and technologies stack"*
 
-Applying NASA coding standards to javascript: https://www.youtube.com/watch?v=z8hG-3Ak_b4
+[Applying NASA coding standards to javascript](https://www.youtube.com/watch?v=z8hG-3Ak_b4)
 
 - Unification promotes trust, a standardised format of writing code gives confidence that things will work the way they are supposed to.
 - In the above video he compares coding standards to aviation development. It takes time to develop a perfect formula so when you do, you should capture it and use it across the board. 
