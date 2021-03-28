@@ -2,7 +2,7 @@
 
 ## Importance of task estimation  
 
-- Need to know how long a task is going to take
+- Need to know how long a task is going to take for the team
 - Want to deliver efficiently and as fast as possible
 - Allows for more up-to-date status reports regarding the sprint
 - Resources are shared between tasks, so it’s important to know resource dependencies and related time
