@@ -19,6 +19,8 @@ The code review process includes the following stages:
 ## Tip To Follow Code Reviews
 ![Getting Started](https://i.postimg.cc/ncMPgjjb/Overview-of-the-Code-Review-Process.png)
 
+
+
 #### Developer Side
 - Developer designs a piece of code to be reviewed
 - It essential to reduce the amount of code you send in a single pull request, therefore, divide up pull request into isolated pieces of logic
@@ -30,7 +32,7 @@ The code review process includes the following stages:
 - Establish a process for your team for when to approve or not approve pull requests. It is important that the team understands the coding standards needed
 - Reviewers must know when to take something offline rather than keep it in a pull request comment. Rather than going back and forth with the develop, it is better to set up a meeting to dicuss this issue as it may take a lot longer via pull request comments
 
-## Anecdote & Example 
+## Example 
 
 Poorly written code is often described as having a “bad smell” that needs to be removed. This is also known as "code hygiene".
 
@@ -66,6 +68,13 @@ as:
 int secondsPerDay = 86400;
 ```
 Variable names like tmp, temp, and data are to be avoided. Every local variable is temporary, and every variable is data, so those names are generally meaningless. It id considered much better practise to use a longer, more descriptive name, so that your code reads clearly all by itself. This makes following code easier for both yourself and your fellow programmers and team members.
+
+In conclusion, Coding review is an extremely important aspect in software engineering. This is clearly highlighted in this article by Erik Dietrich , Code Review Horror Stories(https://blog.submain.com/code-review-horror-stories/). He talks about how, at the end of the day, coding reviews need to used not as a for of critisism but as a way to improve and benefit the company 
+
+> "Code review is far too valuable to eliminate, so you need to learn to optimize it for effectiveness and sanity. ?But you need to understand that it’s a highly 
+> collaborative activity that inherently involves criticism and contradictory ideas. ?If you have underlying personnel problems in your group, code review will 
+> bring them out in spades".
+
 
 
 
