@@ -26,6 +26,10 @@ We have decided as a group to complete the first two tasks by Sunday (four days 
 - Meeting the day after first group meeting to discuss which standards we would like to include and the length of each standard
 - Research any relevant material i.e images, blogs, quotes that would benefit the handbook
 
+## Whole Group for Coding Reviews
+- One first and second parts finished we will divide the 3rd part amongst us
+- This will give us a chance to work together as a group of four on one part
+
 
 
 
