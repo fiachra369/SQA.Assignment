@@ -16,7 +16,7 @@
 - Establish a process for your team for when to approve or not approve pull requests. It is important that the team understands the coding standards needed
 - Reviewers must know when to take something offline rather than keep it in a pull request comment. Rather than going back and forth with the develop, it is better to set up a meeting to dicuss this issue as it may take a lot longer via pull request comments
 
-## Anecdote & Example 
+## Example 
 
 Poorly written code is often described as having a “bad smell” that needs to be removed. This is also known as "code hygiene".
 
