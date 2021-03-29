@@ -9,7 +9,7 @@ Our goal for this "handbook" is to give Codeck Software the best possible resour
 - Coding Standards
 - Code Reviews
  
-Before tackling any of the task, we first had a meeting via Teams to establish where everyone's strengths are and which part they would like to work on. Thus, we decided it was best for two people to do the first task, two to do the second and finally for the last task for us all to contribute to it and show that we can work collaboratively as a team. Then, during our first meeting, we made sure each member in the group understood the gitflow process as it something completely new to everyone.
+Before tackling any of the tasks, we first had a meeting via Teams to establish where everyone's strengths are and which part they would like to work on. Thus, we decided it was best for two people to do the first task, two to do the second and finally for the last task for us all to contribute to it and show that we can work collaboratively as a team. Then, during our first meeting, we made sure each member in the group understood the gitflow process as it something completely new to everyone.
  
 - Introduction = Fiachra
 - Task Estimation in Scrum = Victor & Mark
