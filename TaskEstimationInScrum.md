@@ -14,7 +14,7 @@
 
 ### Idealistic & optimistic estimation
 
-- In most cases, the estimation is carried out under ideal and optimistic conditions, but issues such asunavailability of certain resources, and change requests during the project are not considered in the project estimation.
+- In most cases, the estimation is carried out under ideal and optimistic conditions, but issues such as unavailability of certain resources, and change requests during the project are not considered in the project estimation.
 
 ### Poor design
 
