@@ -6,7 +6,6 @@
 - Want to deliver efficiently and as fast as possible
 - Allows for more up-to-date status reports regarding the sprint
 - Resources are shared between tasks, so it is important to know resource dependencies and related time
-- To move on to new tasks
 
 #### Read more: https://uwaterloo.ca/ist-project-management-office/methodology/project-management/planning/project-schedule/task-estimating
 
