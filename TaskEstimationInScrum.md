@@ -27,7 +27,7 @@
 ### Ignoring team capacity
 
 - It seems obvious that different people would take different time to code. But when we draw estimates, we come up with a standard effort estimate. This inherently adds a risk layer which is going to make the estimate unreliable.
-  
+
   #### Read more :https://levelup.gitconnected.com/learn-task-estimation-secrets-644e8cbca89e
 
 [![1-1o-Io-JMCGv92-LQNp-Bq-Odz-Qw.png](https://i.postimg.cc/bNcBHCsR/1-1o-Io-JMCGv92-LQNp-Bq-Odz-Qw.png)](https://postimg.cc/bdggqR0G)
@@ -69,5 +69,4 @@
 - Communicating everything through email can be difficult to follow
 - I used Jira personally in my internship and found the Kanban board very helpful 
 - Other examples include Asana, Microsoft Planner
-
 
