@@ -5,10 +5,9 @@
 - Need to know how long a task is going to take for the team
 - Want to deliver efficiently and as fast as possible
 - Allows for more up-to-date status reports regarding the sprint
-- Resources are shared between tasks, so it’s important to know resource dependencies and related time
-- To move on to new tasks
+- Resources are shared between tasks, so it is important to know resource dependencies and related time
 
-#### Read more : https://uwaterloo.ca/ist-project-management-office/methodology/project-management/planning/project-schedule/task-estimating
+#### Read more: https://uwaterloo.ca/ist-project-management-office/methodology/project-management/planning/project-schedule/task-estimating
 
 ## Common Challenges of Task Estimation
 
@@ -22,7 +21,7 @@
 
 ### Not splitting the tasks enough
 
-- Most projects have a WBS (Work breakdown structure) and Each task unit should be equivalent to an Agile story point.
+- Most projects have a WBS (Work breakdown structure), and each task unit should be equivalent to an Agile story point.
 - Lack of this usually implies that there is no proper basis for estimation and then well, it slips out into a subjective guess.
 
 ### Ignoring team capacity
