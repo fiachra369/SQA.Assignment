@@ -163,7 +163,7 @@ function addSetEntry(set, value)
 - Reusing saves time and lowers development costs
 - Can easily set standards in line with the company, increasing flexibility
  
-# 2.Code Review
+# 3.Code Review
  
 ## What is Code Review?
 Code review is a systematic examination of software source code, intended to hide bugs and to estimate the code quality. It is the act of consciously conveying with fellow programmers to check each other's code for mistakes and review.
