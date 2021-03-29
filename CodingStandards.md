@@ -28,7 +28,7 @@
 - Single and end line comments should be used frequently throughout code to explain functionality of methods and variables.
 
 
-#### Indention  
+#### Indentation  
 - 4 spaces should be used.
 - Lines should be no longer than 70 characters.
 
@@ -64,11 +64,11 @@
 	}
 ```
 
-The importance of coding standards needs no explanation. Heres a quick anecdote.
+The importance of coding standards needs no explanation. Here's a quick anecdote.
 
-The following quotes is taken from What’s Your Worst Experience with a Coding Standard?(https://blog.submain.com/worst-experience-coding-standard/) an article from Erik Dietrich
+The following quote is taken from What’s Your Worst Experience with a Coding Standard?(https://blog.submain.com/worst-experience-coding-standard/) an article from Erik Dietrich
 
-> Absent a coding standard, you can wind up with a confusing hodgepodge of code.? It starts to resemble some medieval map of > Europe with fiefdoms and a sprawl of local dialects.? “Oh, that’s Dave’s code.? ?Good luck trying to understand that — Dave > LOVES Hungarian notation and is allergic to white space.”
+> Absent a coding standard, you can wind up with a confusing hodgepodge of code. It starts to resemble some medieval map of Europe with fiefdoms and a sprawl of local dialects. “Oh, that’s Dave’s code ? Good luck trying to understand that — Dave LOVES Hungarian notation and is allergic to white space.”
 Dont want to be Dave ? Follow our coding standards handbook. You wont regret it!
 
 ![Getting Started](https://i.postimg.cc/HLtY6fXS/web-designer-developer-jokes-humour-funny-32.jpg)
@@ -83,13 +83,13 @@ Dont want to be Dave ? Follow our coding standards handbook. You wont regret it!
 
 #### Professionalism
 - Ensures that a good job is done for the customers or your team
-- Your coworkers will be impressed by your level work, thus resulting in more tasks and work for you
-- As a result of your professional work using the coding standards new roles may come available to you
+- Your coworkers will be impressed by your level of work, thus resulting in more tasks and more work for you
+- As a result of your professional work using the coding standards, new roles may come available to you
 
 
 #### Time Management
 - Good time management will ensure you get the job in time for the customers or your team
-- Getting the work done fast but also in an efficient way will boost team moral 
+- Getting the work done fast but also in an efficient way will boost team morale 
 - By using the coding standard of commenting, your team will be able to find errors a lot more quickly and fix them
 
 Here is a clear example of effective commenting
