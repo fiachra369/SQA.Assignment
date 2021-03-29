@@ -1,6 +1,6 @@
 # Code Review
 
-## What is code Review?
+## What is Code Review?
 Code review is a systematic examination of software source code, intended to hide bugs and to estimate the code quality. It is the act of consciously conveying with fellow programmers to check each other's code for mistakes and review.
 
 
@@ -75,8 +75,8 @@ int secondsPerDay = 86400;
 ```
 Variable names like tmp, temp, and data are to be avoided. Every local variable is temporary, and every variable is data, so those names are generally meaningless. It is considered much better practise to use a longer, more descriptive name, so that your code reads clearly all by itself. This makes following code easier for both yourself and your fellow programmers and team members.
 
-In conclusion, Coding review is an extremely important aspect in software engineering. This is clearly highlighted in this article by Erik Dietrich , Code Review Horror Stories(https://blog.submain.com/code-review-horror-stories/). He talks about how, at the end of the day, coding reviews need to used not as a for of criticism but as a way to improve and benefit the company
+# Conclusions
 
-> "Code review is far too valuable to eliminate, so you need to learn to optimize it for effectiveness and sanity. ?But you need to understand that it’s a highly
-> collaborative activity that inherently involves criticism and contradictory ideas. ?If you have underlying personnel problems in your group, code review will
-> bring them out in spades".
+In order to operate an efficient, progressive Sprint team, the three factors that we have written about are all of equal importance. Task estimation is of no benefit without clear coding standards in place with every team member on the same page. Likewise, coding standards are important only if they are being enforced through regular code reviews. 
+Overall, the most important thing throughout the whole process is to have an open-minded team that have a clear vision of what is required for the task and engage in regular dialogue with each other. This allows for the highest standards and best practices to emerge, leading to a happier, more motivated team and, most importantly, the best possible software for the customer.
+
